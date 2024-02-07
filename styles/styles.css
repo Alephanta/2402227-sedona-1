@@ -1499,7 +1499,8 @@ input[type="number"]::-webkit-inner-spin-button {
   position: absolute;
   background-color: #E6E6E6;
   width: 1060px;
-  padding: 1px;
+  height: 1px;
+  padding: 0;
   bottom: 100px;
   top: -42px;
 }
